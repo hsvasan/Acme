@@ -1,10 +1,10 @@
 {
-  "name": "acme",
+  "name": "apm",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve -o",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -44,6 +44,8 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
+    "bootstrap": "~3.3.7",
+    "jquery": "~3.2.1",
     "typescript": "~2.4.2"
   }
 }
